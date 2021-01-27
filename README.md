@@ -20,6 +20,7 @@ periféricos, que foram: um conversor
 analógico/digital, um display LCD e um teclado
 matricial. Os periféricos estão presentes em um
 kit didático da disciplina de Microcontroladores.
+
 -------
 braço robótico :
 
