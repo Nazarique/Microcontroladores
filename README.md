@@ -11,7 +11,6 @@ na disciplina: Interrupção, timers, teclado
 matricial, display LCD, conversão A/D,
 acionamento PWM, IHM usando máquinas de
 estados.
-
 No projeto utilizou-se um conjunto de micro
 servos e uma estrutura articulada que
 caracterizam o braço robótico apresentado na
